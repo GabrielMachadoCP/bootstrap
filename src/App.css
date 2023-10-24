@@ -1,0 +1,7 @@
+.row div{
+  background-color: #99d;
+  border: 2px solid rgb(108, 63, 138);
+  padding: 15px;
+  color: white;
+  text-align: center;
+}
